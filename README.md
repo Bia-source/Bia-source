@@ -1,7 +1,7 @@
 ### Hello World 🔥🚀
 
 - 📲 Estou atualmente trabalhando como dev fullstack voltado para desenvolvimento mobile utilizando React-Native e Node
-- 💻 Estudando atualmente TypeScript, Node, React-Native, AWS Clound, Testes unitários e TDD
+- 💻 Estudando TypeScript, Node, React-Native, AWS Clound, Testes unitários e TDD
 - 📫 Email para contato: bia_ferreirads@yahoo.com
 - 😄 Pronouns: Ela/Dela
 
