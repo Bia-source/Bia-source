@@ -3,7 +3,7 @@
 - 📲 Estou atualmente trabalhando como dev fullstack voltado para desenvolvimento mobile utilizando React-Native e Node
 - 💻 Estudando TypeScript, Node, React-Native, AWS Clound, Testes unitários e TDD
 - 📫 Email para contato: bia_ferreirads@yahoo.com
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/Bia-source">
