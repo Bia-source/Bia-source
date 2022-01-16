@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Bia-source">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bia-source&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bia-source&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bia-source&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
