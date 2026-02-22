@@ -1,7 +1,7 @@
 ### Hello World 🔥🚀
 
-- 📲 Estou atualmente trabalhando como dev fullstack voltado para desenvolvimento mobile utilizando React-Native e Node
-- 💻 Estudando TypeScript, Node, React-Native, GraphQL, Jest, AWS Clound e TDD
+- 📲 Estou atualmente trabalhando como Engenheira de Software FullStack voltado para implementações web,mobile e backend utilizando Next, React-Native, Java e Node
+- 💻 Estudando Java, TypeScript, React-Native e AWS Cloud
 - 📫 Email para contato: bia_ferreirad@yahoo.com
 - 😄 Pronomes: Ela/Dela
 
